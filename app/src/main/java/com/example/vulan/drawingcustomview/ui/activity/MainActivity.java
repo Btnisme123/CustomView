@@ -53,8 +53,6 @@ public class MainActivity extends AppCompatActivity implements MergingContract.V
 
     @Override
     public void clickPickImage() {
-       if(!Re){
-
-       }
+      /////
     }
 }
