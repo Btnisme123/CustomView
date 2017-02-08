@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">DrawingCustomView</string>
+    <string name="title_permission_storage">Permission Alert</string>
+    <string name="msg_permission_storage">You need to allow storage permission</string>
+    <string name="action_grant">Grant</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="title_permission_camera">Camera permission  alert</string>
+    <string name="msg_permission_camera">You need  to allow camera permission</string>
 </resources>
